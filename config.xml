@@ -15,8 +15,8 @@
     <content src="index.html" />
     <access origin="*" />
 
-    <!-- <gap:plugin name="com.kerosieben.cordova.plugins.ios7scrollfix" version="0.1.0" />
-    <preference name="IOS7PreventWebViewScrolling" value="true"/> -->
+    <gap:plugin name="com.kerosieben.cordova.plugins.ios7scrollfix" version="0.1.0" />
+    <preference name="IOS7PreventWebViewScrolling" value="true"/>
 
     <preference name="phonegap-version"  value="3.3.0"/>
     <preference name="DisallowOverscroll" value="true"/>
